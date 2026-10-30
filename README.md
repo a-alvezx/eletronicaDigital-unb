@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="./assets/logoUnb.svg" width="150" alt="Logo Universidade de Brasília">
+</div>
+<br>
+
 # Eletrônica Digital 
 
 Repositório dedicado aos projetos e laboratórios desenvolvidos na disciplina de Teoria e Prática de Eletrônica Digital 1 (TED/PED 1) no curso de Engenharia de Software da Universidade de Brasília (UnB - FGA).
