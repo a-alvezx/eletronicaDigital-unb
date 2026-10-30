@@ -21,7 +21,7 @@ Cada laboratório está organizado em seu próprio diretório contendo:
   - Arquivos `.qsf` ou pin planner para a placa Altera AX.
 
 ## Laboratórios Desenvolvidos
-- **[Lab 01: Somador Binário de 4 Bits](./lab01_somador_4bits)** - Implementação combinacional de um somador completo (Full Adder).
+- **[Proj 01: Monitoramento de Risco Baseado em RA](./proj01_monitoramento_risco)** - Sistema lógico combinacional para classificação de risco industrial com pesos baseados no número de matrícula.
 
 ## Como Executar
 
