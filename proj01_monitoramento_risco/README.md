@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="..assets/logoFGA.jpg" width="150" alt="Logo Universidade de Brasília">
+  <img src="../assets/logoFGA.jpg" width="150" alt="Logo Universidade de Brasília">
 </div>
 <br>
 
