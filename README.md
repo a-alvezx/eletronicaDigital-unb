@@ -20,7 +20,7 @@ Cada laboratório está organizado em seu próprio diretório contendo:
   - Arquivos `.xdc` para a placa Basys 3.
   - Arquivos `.qsf` ou pin planner para a placa Altera AX.
 
-## Laboratórios Desenvolvidos
+## Laboratórios e Projetos Desenvolvidos
 - **[Proj 01: Monitoramento de Risco Baseado em RA](./proj01_monitoramento_risco)** - Sistema lógico combinacional para classificação de risco industrial com pesos baseados no número de matrícula.
 
 ## Como Executar
