@@ -1,0 +1,23 @@
+# Arquivos de log e journal do Vivado
+*.jou
+*.log
+*.str
+*.dmp
+
+# Diretórios de compilação, cache e simulação
+.Xil/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.dir/
+
+# Arquivos de debug e banco de dados de compilação
+*.pb
+*.wdb
+*.hbs
+
+# Arquivos de sistema operacional
+Thumbs.db
+.DS_Store
