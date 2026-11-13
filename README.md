@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="./assets/logoUnb.svg" width="150" alt="Logo Universidade de Brasília">
+</div>
+<br>
+
 # Eletrônica Digital 
 
 Repositório dedicado aos projetos e laboratórios desenvolvidos na disciplina de Teoria e Prática de Eletrônica Digital 1 (TED/PED 1) no curso de Engenharia de Software da Universidade de Brasília (UnB - FGA).
@@ -15,8 +20,8 @@ Cada laboratório está organizado em seu próprio diretório contendo:
   - Arquivos `.xdc` para a placa Basys 3.
   - Arquivos `.qsf` ou pin planner para a placa Altera AX.
 
-## Laboratórios Desenvolvidos
-- **[Lab 01: Somador Binário de 4 Bits](./lab01_somador_4bits)** - Implementação combinacional de um somador completo (Full Adder).
+## Laboratórios e Projetos Desenvolvidos
+- **[Proj 01: Monitoramento de Risco Baseado em RA](./proj01_monitoramento_risco)** - Sistema lógico combinacional para classificação de risco industrial com pesos baseados no número de matrícula.
 
 ## Como Executar
 
