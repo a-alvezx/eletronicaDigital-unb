@@ -1,0 +1,79 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\GITHUB\Faculdade\eletronicaDigital-unb\exp07_cronometro
+Ecronometro
+Z1 w1794396899
+Z2 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z3 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z4 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z5 dC:\GITHUB\Faculdade\eletronicaDigital-unb\exp07_cronometro
+Z6 8C:/GITHUB/Faculdade/eletronicaDigital-unb/exp07_cronometro/cronometro.vhd
+Z7 FC:/GITHUB/Faculdade/eletronicaDigital-unb/exp07_cronometro/cronometro.vhd
+l0
+L5
+Vi6VPfde`BgZ>1nA4;gJ`S1
+Z8 OV;C;10.1d;51
+32
+Z9 !s108 1794400233.229000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/GITHUB/Faculdade/eletronicaDigital-unb/exp07_cronometro/cronometro.vhd|
+Z11 !s107 C:/GITHUB/Faculdade/eletronicaDigital-unb/exp07_cronometro/cronometro.vhd|
+Z12 o-work work -2002 -explicit -O0
+Z13 tExplicit 1
+!s100 NVfZz?8j6<M2cJX>T[h2a3
+!i10b 1
+Abehavior
+R2
+R3
+R4
+DEx4 work 10 cronometro 0 22 i6VPfde`BgZ>1nA4;gJ`S1
+l39
+L19
+Vg[BDb`S3AV54TQo@kOa?82
+!s100 b6L7FQFgjDU@RXE;7nPD=1
+R8
+32
+R9
+R10
+R11
+R12
+R13
+!i10b 1
+Etb_cronometro
+Z14 w1794398093
+R2
+R3
+R4
+R5
+Z15 8C:/GITHUB/Faculdade/eletronicaDigital-unb/exp07_cronometro/tb_cronometro.vhd
+Z16 FC:/GITHUB/Faculdade/eletronicaDigital-unb/exp07_cronometro/tb_cronometro.vhd
+l0
+L5
+VHAV91c^YaM1AA3Mj_iYe[0
+!s100 <iQ6goJciVY?IN_Um6Bm:3
+R8
+32
+!i10b 1
+Z17 !s108 1794400233.379000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/GITHUB/Faculdade/eletronicaDigital-unb/exp07_cronometro/tb_cronometro.vhd|
+Z19 !s107 C:/GITHUB/Faculdade/eletronicaDigital-unb/exp07_cronometro/tb_cronometro.vhd|
+R12
+R13
+Abehavior
+R2
+R3
+R4
+Z20 DEx4 work 13 tb_cronometro 0 22 HAV91c^YaM1AA3Mj_iYe[0
+l32
+L8
+Z21 VBc4ie]zd>gd803kT=`MoP3
+Z22 !s100 F]Nk1G]nVCEPlTR_43YAO0
+R8
+32
+!i10b 1
+R17
+R18
+R19
+R12
+R13

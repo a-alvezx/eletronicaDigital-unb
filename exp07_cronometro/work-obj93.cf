@@ -1,0 +1,7 @@
+v 4
+file . "tb_cronometro.vhd" "d20767662ef1cfa2186e64e7a48fecc1289e88cc" "20261113134003.617":
+  entity tb_cronometro at 1( 0) + 0 on 13;
+  architecture behavior of tb_cronometro at 8( 121) + 0 on 14;
+file . "cronometro.vhd" "1e539672e1ae6e39c4676d6d1668158ff10960f4" "20261113133959.668":
+  entity cronometro at 1( 0) + 0 on 11;
+  architecture behavior of cronometro at 19( 468) + 0 on 12;
