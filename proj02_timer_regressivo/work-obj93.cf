@@ -1,0 +1,7 @@
+v 4
+file . "tb_timer_regressivo.vhd" "dac6c817e6768f992345d8f717ca4b51693fa5f7" "20261113150910.257":
+  entity tb_timer_regressivo at 2( 43) + 0 on 17;
+  architecture behavior of tb_timer_regressivo at 10( 262) + 0 on 18;
+file . "timer_regressivo.vhd" "fdb5ee2d72dc0e920f8d315aeee1ab7785f42d73" "20261113150905.417":
+  entity timer_regressivo at 2( 41) + 0 on 15;
+  architecture behavior of timer_regressivo at 29( 1712) + 0 on 16;
